@@ -1,0 +1,11 @@
+/*very hard reset of browser settings */
+* {
+  margin:0;
+  padding:0;
+}
+
+body{
+font-family: 'Source Sans Pro', Helvetica, sans-serif;
+line-height: 1.5;
+color:#555
+}
